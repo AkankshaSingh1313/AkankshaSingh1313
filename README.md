@@ -1,6 +1,6 @@
 # Hi there, I'm Akanksha! 👋
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AkankshaSingh1313&show_icons=true&theme=radical"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaSingh1313&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AkankshaSingh1313&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaSingh1313&layout=compact"/>
 
 
 <img align="left" alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
