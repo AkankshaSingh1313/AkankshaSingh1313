@@ -27,4 +27,4 @@
 <img align="left" alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img alt="OpenStack" src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaSingh1313&" alt="akankshasingh1313" /></p>
+
