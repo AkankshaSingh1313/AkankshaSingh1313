@@ -1,8 +1,8 @@
 <img  align= "center" height="350" width="100%" src="https://gonzobanker.com/wp-content/uploads//AS552057908_1020.jpg">
-<h1 align="center">Hi 👋, I'm Akanksha Singh</h1>
+<h1 align="center">Hi 👋🏻, I'm Akanksha Singh</h1>
 <h3 align="center">Hello World 🌎! </h3>
 <h3 align="center">I'm Akanksha Singh, a passionate cloud enthusiast☁️ and web developer🌐.</h3>
-<h3 align="center">Currently, I'm in my pre-final year at UPES📌.</h3>
+<h3 align="center">Currently, I'm in my pre-final year at UPES.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshasingh1313&label=Profile%20views&color=0e75b6&style=flat" alt="akankshasingh1313" /> </p>
