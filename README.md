@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Chess Tactics](https://github.com/AkankshaSingh1313/Chess-Tactics)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** and **Web Development**
 
 - 📫 How to reach me **akankshasingh1313vn@gmail.com**
 
