@@ -1,4 +1,4 @@
-<img  align= "center" height="350" width="100%" src="https://gonzobanker.com/wp-content/uploads//AS552057908_1020.jpg">
+<img  align= "center" height="450" width="100%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-1081374,resizemode-75,msid-102199032/jobs/mid-career/digital-marketing-examples-of-successful-campaigns-what-you-need-to-know-before-starting-one.jpg">
 <h1 align="center">Hi 👋🏻, I'm Akanksha Singh</h1>
 <h3 align="center">Hello World 🌎! </h3>
 <h3 align="center">I'm Akanksha Singh, a passionate, enthusiast and web developer🌐.</h3>
