@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshasingh1313&label=Profile%20views&color=0e75b6&style=flat" alt="akankshasingh1313" /> </p>
 
-- 🔭 I’m currently working on [Chess Tactics](https://github.com/AkankshaSingh1313/Chess-Tactics) , [PlatePal](https://github.com/AkankshaSingh1313/PlatePal) and [FoodieBot](https://github.com/AkankshaSingh1313/Cloud_performance_tuning)
-
 - 🌱 I’m currently learning **DSA** and **Web Development**
 
 - 📫 How to reach me **akankshasingh1313vn@gmail.com**
