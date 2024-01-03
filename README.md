@@ -1,4 +1,4 @@
-<img  align= "center" height="450" width="100%" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-1081374,resizemode-75,msid-102199032/jobs/mid-career/digital-marketing-examples-of-successful-campaigns-what-you-need-to-know-before-starting-one.jpg">
+<img  align= "center" height="450" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2QOlKwwY5N3wnAEDCMcnkGwDJvYtDdKdpimdKgp6oLtAsGy3N2U1CeC15wyhX64Pvc4&usqp=CAU">
 <h1 align="center">Hi 👋🏻, I'm Akanksha Singh</h1>
 <h3 align="center">Hello World 🌎! </h3>
 <h3 align="center">I'm Akanksha Singh, a passionate, enthusiast and web developer🌐.</h3>
