@@ -1,4 +1,4 @@
-<img  align= "center" height="450" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2QOlKwwY5N3wnAEDCMcnkGwDJvYtDdKdpimdKgp6oLtAsGy3N2U1CeC15wyhX64Pvc4&usqp=CAU">
+<img  align= "center" height="450" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbalkandiskurs.com%2Fen%2F2018%2F03%2F05%2Fgirls-coding-kosova-empowering-women-programmers%2F&psig=AOvVaw3jBc1TAaRamOBSk7f1Z5GQ&ust=1704434323831000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj22emGw4MDFQAAAAAdAAAAABAD">
 <h1 align="center">Hi 👋🏻, I'm Akanksha Singh</h1>
 <h3 align="center">Hello World 🌎! </h3>
 <h3 align="center">I'm Akanksha Singh, a passionate, enthusiast and web developer🌐.</h3>
