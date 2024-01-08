@@ -1,5 +1,5 @@
 <img  align= "center" height="400" width="100%" src="https://balkandiskurs.com/app/uploads/2018/03/16996486_708754482636181_5846626126165356020_n.jpg">
-<h1 align="center">Hi 👋🏻, I'm Akanksha Singh</h1>
+<h1 align="center">Hello there 👋🏻, I'm Akanksha Singh</h1>
 <h3 align="center">Hello World 🌎! </h3>
 <h3 align="center">I'm Akanksha Singh, a passionate, enthusiast and web developer🌐.</h3>
 <h3 align="center">Currently, I'm in my pre-final year at UPES.</h3>
