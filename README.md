@@ -47,5 +47,4 @@
 <p><img align="left" height="300" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshasingh1313&show_icons=true&locale=en&layout=compact" alt="akankshasingh1313" /></p>
 
 <p>&nbsp;<img align="left" height="300" width="47%" src="https://github-readme-stats.vercel.app/api?username=akankshasingh1313&show_icons=true&locale=en" alt="akankshasingh1313" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshasingh1313&" alt="akankshasingh1313" /></p>
